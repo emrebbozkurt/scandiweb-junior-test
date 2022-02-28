@@ -6,5 +6,5 @@
 2. Starting Docker Containers
 > `docker-compose up -d --build`
 > 
-# Database
+## Database
 You can restore your database with products.sql file in the root directory.
