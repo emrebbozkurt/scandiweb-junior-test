@@ -1,6 +1,6 @@
 -- MariaDB dump 10.19  Distrib 10.4.22-MariaDB, for Win64 (AMD64)
 --
--- Host: 127.0.0.1    Database: scandiweb_test
+-- Host: localhost    Database: scandiweb_junior_test
 -- ------------------------------------------------------
 -- Server version	10.4.22-MariaDB
 
