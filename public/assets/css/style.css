@@ -1,0 +1,46 @@
+main {
+    min-height: calc(100vh - 165px);
+}
+
+footer {
+    text-align: center;
+}
+
+.header-left {
+    margin-top: 15px;
+}
+
+.header-right {
+    margin-top: 15px;
+}
+
+.separator {
+    margin-top: 15px;
+}
+
+.mass-delete {
+    float: right;
+}
+
+.product-card {
+    margin-bottom: 25px;
+}
+
+.product-card-body {
+    text-align: center !important;
+    margin-bottom: 15px;
+}
+
+.delete-checkbox {
+    margin-bottom: 10px;
+}
+
+.product-card-text {
+    margin-bottom: 0;
+}
+
+.description {
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
